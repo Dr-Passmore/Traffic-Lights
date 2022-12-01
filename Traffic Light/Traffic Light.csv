@@ -1,0 +1,30 @@
+"Source:","D:\Creative projects\Electronics\Traffic Light\Traffic Light\Traffic Light.kicad_sch"
+"Date:","30/11/2022 20:10:01"
+"Tool:","Eeschema (6.0.9)"
+"Generator:","E:\Electronics\6.0\bin\scripting\plugins/bom_csv_grouped_by_value.py"
+"Component Count:","11"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"","","D1","LED","Device:LED","","~"
+"","","D2","LED","Device:LED","","~"
+"","","D3","LED","Device:LED","","~"
+"","","H1","MountingHole","Mechanical:MountingHole","","~"
+"","","H2","MountingHole","Mechanical:MountingHole","","~"
+"","","H3","MountingHole","Mechanical:MountingHole","","~"
+"","","H4","MountingHole","Mechanical:MountingHole","","~"
+"","","J1","Conn_01x04","Connector_Generic:Conn_01x04","","~"
+"","","R1","R","Device:R","","~"
+"","","R2","R","Device:R","","~"
+"","","R3","R","Device:R","","~"
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"1","3","D1, D2, D3","LED","Device:LED","","~"
+"2","4","H1, H2, H3, H4","MountingHole","Mechanical:MountingHole","","~"
+"3","1","J1","Conn_01x04","Connector_Generic:Conn_01x04","","~"
+"4","3","R1, R2, R3","R","Device:R","","~"
